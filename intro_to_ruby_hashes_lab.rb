@@ -23,7 +23,7 @@ end
 
 def my_hash_creator(key, value)
   lovely_hash = { 
-    key: value
+    :key => value
   }
 end
 
